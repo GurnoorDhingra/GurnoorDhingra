@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gurnoor Kaur Dhingra!
 
-<!--
-**GurnoorDhingra/GurnoorDhingra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate AI researcher and developer with a diverse background in:
+🚀 **Data Science & AI**  
+🎯 **Full-Stack Development**  
+🔌 **LLMs, RAG chatbots and Statistical modelling**  
+📊 **Synthetic Data Generation**
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 Master's in **Data Science** (AI Major) from **University of Erlangen-Nuremberg, Germany** 🇩🇪  
+- 💼 **3+ years** experience in **Data Engineering & AI Development**  
+- 🏭 Specialized in **AI for Manufacturing & Industrial Applications**  
+- 🤖 Passionate about **LLMs, RAG, NLP, and AI-powered automation**  
+- 📈 Experienced with **MLOps, Knowledge Graphs, and Vector Databases**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Key Projects:
+- **[DailyDigest] (https://github.com/GurnoorDhingra/DailyDigest)** → AI-driven document search & summarization
+- **[DataForge] (https://github.com/GurnoorDhingra/DataForge)** → Synthetic data generator
+- **[SmartSearch] (https://github.com/GurnoorDhingra/SmartSearch)** → RAG based chatbot
+
+## 🔧 **Tech Stack:**  
+💻 **Languages:** Python, SQL, Java  
+📊 **AI & ML:** TensorFlow, PyTorch, LangChain  
+📚 **NLP & Search:** LLMs, RAG, Transformers  
+🔗 **Data & DBs:** , PostgreSQL, Pinecone, Elasticsearch  
+⚙️ **MLOps & Deployment:** Docker, FastAPI, Hugging Face  
+
+## 📫 Get in Touch
+
+Feel free to reach out or explore my work:
+- 💼 **LinkedIn:** [linkedin.com/in/gurnoor-dhingra](https://www.linkedin.com/in/gurnoor-dhingra/)
+- 📩 **Email:** gurnoorkaurdhingra@gmail.com
+
+🌟 **Check out my projects and feel free to connect!** 🚀  
