@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Gurnoor Kaur Dhingra!
 
 Welcome to my GitHub! I'm a passionate AI researcher and developer with a diverse background in:
+
 🚀 **Data Science & AI**  
 🎯 **Full-Stack Development**  
 🔌 **LLMs, RAG chatbots and Statistical modelling**  
