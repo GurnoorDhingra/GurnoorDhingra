@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate AI Developer and Data Scientist with a di
 
 ## 🌟 Key Projects:
 - **[VirtualTryOn] (https://github.com/GurnoorDhingra/VirtualTryOn)** → Image to Image generation using Vision Models
-- **[TheDesigner] (https://github.com/GurnoorDhingra/TheDesigner)** → Multi-Agent Text to Image generation
+- **[TheStoryBoard] (https://github.com/GurnoorDhingra/TheStoryBoard)** → Multi-Agent Text to Image generation
 - **[DailyDigest] (https://github.com/GurnoorDhingra/DailyDigest)** → AI-driven document search & summarization
 - **[DataForge] (https://github.com/GurnoorDhingra/DataForge)** → Synthetic data generator
 - **[SmartSearch] (https://github.com/GurnoorDhingra/SmartSearch)** → RAG based chatbot
